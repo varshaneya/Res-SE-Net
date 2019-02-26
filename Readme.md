@@ -31,9 +31,9 @@ Please retain random seed in cifar.py for reproducibility.
 
 If you use Res-SE-Net model or the code please cite my work as:
 
-@article{res-se-net,
-  title={RES-SE-NET: Boosting Performance of Resnets by Enhancing Bridge-connections},
-  author={Varshaneya V, Balasubramanian S, Darshan Gera},
-  journal={arXiv preprint arXiv:1902.06066},
-  year={2019}
-}
+  @article{res-se-net,
+    title={Res-SE-Net: Boosting Performance of Resnets by Enhancing Bridge-connections},
+    author={Varshaneya V, Balasubramanian S, Darshan Gera},
+    journal={arXiv preprint arXiv:1902.06066},
+    year={2019}
+  }
